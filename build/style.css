@@ -1,3 +1,4 @@
+
 @media(min-width:600px) {
     .products .product h3 {
         font-size: 24px
@@ -772,6 +773,12 @@ button:focus {
     color: #1d1e1d
 }
 
+@media(max-width: 479px){
+    .hero-page .welcome-container {
+        text-align: left !important;
+    }
+}
+
 .hero-page .welcome-container h1 span {
     color: #c84646
 }
@@ -922,7 +929,7 @@ button:focus {
     position: absolute;
     bottom: 0;
     left: 0;
-    border-bottom: 6px solid #d2de29;
+    border-bottom: 6px solid #c84646;
     border-right: 2px solid transparent;
     height: 0;
     width: 20px
@@ -935,7 +942,7 @@ button:focus {
     left: 0;
     width: 165px;
     height: 1px;
-    border-bottom: 1px solid #d2de29
+    border-bottom: 1px solid #c84646
 }
 
 .ihub-brief {
@@ -1033,7 +1040,7 @@ button:focus {
 
 .products .tagline {
     text-align: center;
-    color: #d2de29;
+    color: #c84646;
     font-size: 16px;
     line-height: 1.1em
 }
@@ -4863,3 +4870,20 @@ body.view_job .footer {
     margin-top: 0;
     padding-top: 40px
 }
+
+@media(max-width: 479px){
+    .flexi-module .flexi-content {
+        padding: 10px;
+}}
+
+@media(max-width: 479px){
+    .ihub-brief .brief-text {
+        text-align: left;
+}}
+
+@media(max-width: 479px){
+    .partners .partners-header {
+        text-align: left;
+        padding: 40px;
+}}
+
