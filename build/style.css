@@ -106,7 +106,7 @@
 @media(min-width:1200px) {
     .hero-page .welcome-container h1,
     .membership-page .membership-welcome h1 {
-        font-size: 80px
+        font-size: 70px
     }
 }
 
@@ -773,7 +773,7 @@ button:focus {
 }
 
 .hero-page .welcome-container h1 span {
-    color: #00aeff
+    color: #c84646
 }
 
 .hero-page .welcome-container .welcome-text {
@@ -939,7 +939,7 @@ button:focus {
 }
 
 .ihub-brief {
-    background: #d2de29;
+    background: #c84646;
     padding: 130px 0;
     margin: -130px 0;
     z-index: 1;
@@ -4618,7 +4618,7 @@ header .hamburger {
 }
 
 .newsletter .subscriber {
-    background: #0d0d0d;
+    background: #161616;
     color: #fff;
     padding: 50px 20px;
     z-index: 5
@@ -4641,7 +4641,7 @@ header .hamburger {
 
 .newsletter .subscriber p {
     font-size: 15px;
-    color: #d2de29;
+    color: #c84646;
     max-width: 410px
 }
 
@@ -4708,7 +4708,7 @@ header .hamburger {
 }
 
 .newsletter .subscriber .mailchimp-form input {
-    background: #0d0d0d;
+    background: #161616;
     border: 1px solid #6d6e71;
     padding: 12px 20px;
     width: 100%;
@@ -4749,7 +4749,7 @@ header .hamburger {
 
 .newsletter .subscriber .mailchimp-form button i {
     padding-left: 25px;
-    color: #d2de29
+    color: #c84646
 }
 
 .footer {
