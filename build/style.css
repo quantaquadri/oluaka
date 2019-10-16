@@ -107,7 +107,7 @@
 @media(min-width:1200px) {
     .hero-page .welcome-container h1,
     .membership-page .membership-welcome h1 {
-        font-size: 70px
+        font-size: 60px
     }
 }
 
@@ -796,7 +796,7 @@ button:focus {
 
 @media(min-width:800px) {
     .hero-page .welcome-container .welcome-text {
-        font-size: 24px
+        font-size: 20px
     }
 }
 
@@ -857,8 +857,8 @@ button:focus {
 
 .flexi-module .flexi-content .module-text {
     padding: 15px 20px;
-    line-height: 1.6em;
-    font-weight: 300
+    line-height: 30px !important;
+    font-weight: 100
 }
 
 @media(min-width:1600px) {
@@ -971,8 +971,10 @@ button:focus {
 
 @media(min-width:1000px) {
     .ihub-brief .brief-text {
-        font-size: 30px;
-        font-weight: 700
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 40px;
+
     }
 }
 
