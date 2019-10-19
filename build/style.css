@@ -1454,7 +1454,7 @@ button:focus {
 
 .readon-membership i {
     padding-left: 10px;
-    color: #d2de29
+    color: #c84646
 }
 
 .login-providers {
@@ -1716,7 +1716,7 @@ button:focus {
 }
 
 .membership-view .package-header .pricing .price-label {
-    color: #d2de29
+    color: #c84646
 }
 
 .membership-view .package-header .pricing .price-value {
